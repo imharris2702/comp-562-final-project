@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 
 def unpack_data(path: str):
